@@ -1,4 +1,4 @@
-# Lahiru Main Project
+# mihinthalaya-temple-site
 
 This project contains a web page with associated images and styles.
 
